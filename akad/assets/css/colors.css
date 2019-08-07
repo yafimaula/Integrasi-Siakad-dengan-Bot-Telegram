@@ -1,0 +1,211 @@
+/* --------------------------------------
+=========================================
+PVR - Lite Admin Bootstrap 4 Dashboard Template
+Version: 1.0
+Designed By: PVR TECH SUDIO (Palani Velayudam)
+Website: http://pvrtechstudio.com
+=========================================
+1. Colors
+--------------------------------------------------------*/
+/** ************************************* **
+	DO NOT CHANGE ANYTHING HERE!
+	REWRITE IN A CUSTOM CSS FILE IF REQUIRED!
+ ** ************************************* **/
+/**	1. Colors
+*************************************************** **/
+.sidebar[data-color="purple"]:after,
+.bootstrap-navbar[data-color="purple"]:after {
+    background: #9368E9;
+    background: -moz-linear-gradient(top, #9368E9 0%, rgba(148, 59, 234, 0.7) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #9368E9), color-stop(100%, rgba(148, 59, 234, 0.7)));
+    background: -webkit-linear-gradient(top, #9368E9 0%, rgba(148, 59, 234, 0.7) 100%);
+    background: -o-linear-gradient(top, #9368E9 0%, rgba(148, 59, 234, 0.7) 100%);
+    background: -ms-linear-gradient(top, #9368E9 0%, rgba(148, 59, 234, 0.7) 100%);
+    background: linear-gradient(to bottom, #9368E9 0%, rgba(148, 59, 234, 0.7) 100%);
+    background-size: 150% 150%;
+}
+
+button#minimizeSidebar[data-color="purple"] {
+    background: #9368E9;
+    border: 1px solid #9368E9 !important;
+}
+
+[data-color="purple"] {
+    background: #9368E9 !important;
+    color: #FFFFFF;
+}
+
+.btn-purple {
+    border: 1px solid #9368E9 !important;
+    background-color: #9368E9 !important;
+    color: #FFFFFF;
+}
+
+.btn-purple:hover,
+.btn-purple:focus,
+.btn-purple:active,
+.btn-purple.active,
+.open > .btn-purple.dropdown-toggle {
+    background-color: #943BEA !important;
+    border-color: #943BEA !important;
+    color: #FFFFFF !important;
+}
+
+.text-purple {
+    color: #9368E9;
+}
+
+.pvr-wrapper .pvr-header:after {
+    content: "";
+    background-color: #943BEA;
+    width: 8rem;
+    height: 3px;
+    border-radius: 2px;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+}
+
+.bg-white {
+    background: #FFFFFF !important;
+}
+
+.bg-transparent {
+    background: transparent !important;
+}
+
+.text-light {
+    color: #FFFFFF;
+}
+
+[data-color="transparent"] {
+    background: transparent !important;
+    color: #888888;
+}
+
+.btn-black {
+    border: 1px solid #797979 !important;
+    background-color: #797979 !important;
+    color: #FFFFFF;
+}
+
+[data-color="black"] {
+    background: #797979 !important;
+    color: #FFFFFF;
+}
+
+.btn-black {
+    border: 1px solid #797979 !important;
+    background-color: #797979 !important;
+    color: #FFFFFF;
+}
+
+.btn-black:hover,
+.btn-black:focus,
+.btn-black:active,
+.btn-black.active,
+.open > .btn-black.dropdown-toggle {
+    background-color: rgba(121, 121, 121, 0.7) !important;
+    border-color: rgba(121, 121, 121, 0.7) !important;
+}
+
+[data-color="blue"] {
+    background: #447DF7;
+    color: #FFFFFF;
+}
+
+.btn-blue {
+    border: 1px solid #447DF7 !important;
+    background-color: #447DF7 !important;
+    color: #FFFFFF;
+}
+
+.btn-blue:hover,
+.btn-blue:focus,
+.btn-blue:active,
+.btn-blue.active,
+.open > .btn-blue.dropdown-toggle {
+    background-color: #533CE1 !important;
+    border-color: #533CE1 !important;
+}
+
+[data-color="azure"] {
+    background: #23CCEF !important;
+    color: #FFFFFF;
+}
+
+.btn-azure {
+    border: 1px solid #23CCEF !important;
+    background-color: #23CCEF !important;
+    color: #FFFFFF;
+}
+
+.btn-azure:hover,
+.btn-azure:focus,
+.btn-azure:active,
+.btn-azure.active,
+.open > .btn-azure.dropdown-toggle {
+    background-color: #4091FF !important;
+    border-color: #4091FF !important;
+}
+
+[data-color="green"] {
+    background: #87CB16 !important;
+    color: #FFFFFF;
+}
+
+.btn-green {
+    border: 1px solid #87CB16 !important;
+    background-color: #87CB16 !important;
+    color: #FFFFFF;
+}
+
+.btn-green:hover,
+.btn-green:focus,
+.btn-green:active,
+.btn-green.active,
+.open > .btn-green.dropdown-toggle {
+    background-color: #6DC030 !important;
+    border-color: #6DC030 !important;
+}
+
+[data-color="orange"] {
+    background: #FFA534 !important;
+    color: #FFFFFF;
+}
+
+.btn-orange {
+    border: 1px solid #FFA534 !important;
+    background-color: #FFA534 !important;
+    color: #FFFFFF;
+}
+
+.btn-orange:hover,
+.btn-orange:focus,
+.btn-orange:active,
+.btn-orange.active,
+.open > .btn-orange.dropdown-toggle {
+    background-color: #FF5221 !important;
+    border-color: #FF5221 !important;
+}
+
+[data-color="red"] {
+    background: #FB404B !important;
+    color: #FFFFFF;
+}
+
+.btn-red {
+    border: 1px solid #FB404B !important;
+    background-color: #FB404B !important;
+    color: #FFFFFF;
+}
+
+.btn-red:hover,
+.btn-red:focus,
+.btn-red:active,
+.btn-red.active,
+.open > .btn-red.dropdown-toggle {
+    background-color: #BB0502 !important;
+    border-color: #BB0502 !important;
+}

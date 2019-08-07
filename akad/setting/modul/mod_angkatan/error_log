@@ -1,0 +1,18 @@
+[07-Dec-2018 19:02:51] PHP Notice:  Undefined index:  code in /home/lambangk/public_html/botcampus.or.id/akad/setting/modul/mod_angkatan/angkatan.php on line 2
+[07-Dec-2018 19:02:51] PHP Notice:  Undefined index:  code in /home/lambangk/public_html/botcampus.or.id/akad/setting/modul/mod_angkatan/angkatan.php on line 10
+[07-Dec-2018 19:02:51] PHP Notice:  Undefined index:  code in /home/lambangk/public_html/botcampus.or.id/akad/setting/modul/mod_angkatan/angkatan.php on line 18
+[07-Dec-2018 19:02:51] PHP Notice:  Undefined index:  act in /home/lambangk/public_html/botcampus.or.id/akad/setting/modul/mod_angkatan/angkatan.php on line 29
+[07-Dec-2018 19:02:51] PHP Notice:  Undefined variable: db in /home/lambangk/public_html/botcampus.or.id/akad/setting/modul/mod_angkatan/angkatan.php on line 55
+[07-Dec-2018 19:02:51] PHP Fatal error:  Call to a member function database_prepare() on a non-object in /home/lambangk/public_html/botcampus.or.id/akad/setting/modul/mod_angkatan/angkatan.php on line 55
+[07-Dec-2018 19:02:53] PHP Notice:  Undefined index:  code in /home/lambangk/public_html/botcampus.or.id/akad/setting/modul/mod_angkatan/angkatan.php on line 2
+[07-Dec-2018 19:02:53] PHP Notice:  Undefined index:  code in /home/lambangk/public_html/botcampus.or.id/akad/setting/modul/mod_angkatan/angkatan.php on line 10
+[07-Dec-2018 19:02:53] PHP Notice:  Undefined index:  code in /home/lambangk/public_html/botcampus.or.id/akad/setting/modul/mod_angkatan/angkatan.php on line 18
+[07-Dec-2018 19:02:56] PHP Notice:  Undefined index:  code in /home/lambangk/public_html/botcampus.or.id/akad/setting/modul/mod_angkatan/angkatan.php on line 2
+[07-Dec-2018 19:02:56] PHP Notice:  Undefined index:  code in /home/lambangk/public_html/botcampus.or.id/akad/setting/modul/mod_angkatan/angkatan.php on line 10
+[07-Dec-2018 19:02:56] PHP Notice:  Undefined index:  code in /home/lambangk/public_html/botcampus.or.id/akad/setting/modul/mod_angkatan/angkatan.php on line 18
+[07-Dec-2018 19:02:56] PHP Notice:  Undefined index:  act in /home/lambangk/public_html/botcampus.or.id/akad/setting/modul/mod_angkatan/angkatan.php on line 29
+[07-Dec-2018 19:02:56] PHP Notice:  Undefined variable: db in /home/lambangk/public_html/botcampus.or.id/akad/setting/modul/mod_angkatan/angkatan.php on line 55
+[07-Dec-2018 19:02:56] PHP Fatal error:  Call to a member function database_prepare() on a non-object in /home/lambangk/public_html/botcampus.or.id/akad/setting/modul/mod_angkatan/angkatan.php on line 55
+[07-Dec-2018 19:03:02] PHP Notice:  Undefined index:  code in /home/lambangk/public_html/botcampus.or.id/akad/setting/modul/mod_angkatan/angkatan.php on line 2
+[07-Dec-2018 19:03:02] PHP Notice:  Undefined index:  code in /home/lambangk/public_html/botcampus.or.id/akad/setting/modul/mod_angkatan/angkatan.php on line 10
+[07-Dec-2018 19:03:02] PHP Notice:  Undefined index:  code in /home/lambangk/public_html/botcampus.or.id/akad/setting/modul/mod_angkatan/angkatan.php on line 18
